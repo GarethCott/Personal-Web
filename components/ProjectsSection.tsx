@@ -9,7 +9,7 @@ const projects = [
     name: "Portfolio with a blog and dashboard",
     description:
       "A portfolio project with a blog section created in NEXT.JS. This project uses CRUD opperation and MONGO DB",
-    image: "/thankfulthoughts.png",
+    image: "/Portfolio.png",
     github: "https://github.com/GarethCott/Portfolio",
     link: "",
   },
