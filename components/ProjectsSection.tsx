@@ -11,7 +11,15 @@ const projects = [
       "A portfolio project with a blog section created in NEXT.JS. This project uses CRUD opperation and MONGO DB",
     image: "/Portfolio.png",
     github: "https://github.com/GarethCott/Portfolio",
-    link: "",
+    link: "https://portfoliowebsitebuild.vercel.app",
+  },
+  {
+    name: "PropmtSearch app with CRUD functionality",
+    description:
+      "A web app that allows you to create Prompts with tags. Has CRUD functionality and search bar",
+    image: "/PromptSearch.png",
+    github: "https://github.com/GarethCott/prompt-search-app",
+    link: "https://prompt-search-app.vercel.app",
   },
 
 ]
