@@ -77,7 +77,7 @@ const AboutSection = () => {
               From playing sports, hiking and playing chess.
               I am a <span className="font-bold text-teal-500">
               very quick learner
-              </span>{" "} and I am always excited to learn and try new things.
+              </span>{" "} and am always excited for a new challenge that will allow me to grow.
             </p>
             <br />
           </div>
