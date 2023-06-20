@@ -19,7 +19,7 @@ const projects = [
       "A web app that allows you to create Prompts with hash tags. Has CRUD operations and a search bar to filter through Prompts",
     image: "/PromptSearch.png",
     github: "https://github.com/GarethCott/prompt-search-app",
-    link: "https://prompt-search.netlify.app/",
+    link: "https://main--prompt-search.netlify.app/",
   },
 
 ]
