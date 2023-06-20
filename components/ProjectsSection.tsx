@@ -8,7 +8,7 @@ const projects = [
   {
     name: "Portfolio with a blog and dashboard",
     description:
-      "A portfolio project with a blog section created in Nextjs. This project uses CRUD funcyionality to create and display blog posts",
+      "A portfolio project with a blog section created in Nextjs. This project uses CRUD operations to create and display blog posts",
     image: "/Portfolio.png",
     github: "https://github.com/GarethCott/Portfolio",
     link: "https://portfoliowebsitebuild.vercel.app",
@@ -16,7 +16,7 @@ const projects = [
   {
     name: "PropmtSearch app with CRUD functionality",
     description:
-      "A web app that allows you to create Prompts with hash tags. Has CRUD functionality and a search bar",
+      "A web app that allows you to create Prompts with hash tags. Has CRUD operations and a search bar to filter through Prompts",
     image: "/PromptSearch.png",
     github: "https://github.com/GarethCott/prompt-search-app",
     link: "https://prompt-search-app.vercel.app",
