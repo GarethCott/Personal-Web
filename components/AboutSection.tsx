@@ -74,21 +74,12 @@ const AboutSection = () => {
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, playing chess and hiking.
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
+              From playing sports, hiking and playing chess.
+              I am a <span className="font-bold text-teal-500">
+              very quick learner
+              </span>{" "} and am always excited for a new challenge that will allow me to grow.
             </p>
             <br />
-            <p>
-              I believe that you should{" "}
-              <span className="font-bold text-teal-500">
-                never stop growing
-              </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
-            </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
             <h1 className="text-2xl font-bold mb-6">Languages</h1>
