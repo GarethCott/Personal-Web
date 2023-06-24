@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "TrendSwap (A reddit clone)",
+    description:
+      "A reddit clone built with Next.js. Using planetscale, Redis, tailwind",
+    image: "/Trendswap.png",
+    github: "https://github.com/GarethCott/TrendSwap",
+    link: "https://trend-swap.vercel.app",
+  },
+  {
     name: "Portfolio with a blog and dashboard",
     description:
       "A portfolio project with a blog section created in Nextjs. This project uses CRUD operations to create and display blog posts",
@@ -19,7 +27,7 @@ const projects = [
       "A web app that allows you to create Prompts with hash tags. Has CRUD operations and a search bar to filter through Prompts",
     image: "/PromptSearch.png",
     github: "https://github.com/GarethCott/prompt-search-app",
-    link: "https://main--prompt-search.netlify.app/",
+    link: "https://main--prompt-search.netlify.app",
   },
 
 ]
