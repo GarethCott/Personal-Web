@@ -15,20 +15,25 @@ const language = [
   { skill: "HTML" },
   { skill: "CSS" },
   { skill: "JavaScript" },
+  { skill: "TypeScript" },
   { skill: "Python" },
 
 ]
 
 const frameworks = [
-  { skill: "React.js (Basic)" },
-  { skill: "Next.js (Basic)" },
+  { skill: "React.js" },
+  { skill: "Next.js" },
  
 ]
 
 const technologies = [
   { skill: "Git" },
   { skill: "GitHub" },
-  { skill: "Tailwind CSS (Basic)" },
+  { skill: "Tailwind CSS" },
+  { skill: "PrismaDB" },
+  { skill: "Vercel" },
+  { skill: "Planetscale" },
+  { skill: "MongoDB" },
  
 ]
 
