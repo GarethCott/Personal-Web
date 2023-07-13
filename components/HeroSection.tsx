@@ -22,7 +22,7 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
-              Civil Engineer{" "}
+              Engineer{" "}
             </span>
             Who has a deep passion for web development.
           </p>
