@@ -1,10 +1,26 @@
-import React from "react"
-import Image from "next/image"
-import Link from "next/link"
-import SlideUp from "./SlideUp"
-import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
+import React from "react";
+import Image from "next/image";
+import Link from "next/link";
+import SlideUp from "./SlideUp";
+import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
+  {
+    name: "E-commerce Admin Dashboard",
+    description:
+      "A E-commerce backend dashboard to create, edit, delete products and view API end points for frontend. For login details, visit github page.",
+    image: "/admin-dashboard.png",
+    github: "https://github.com/GarethCott/ecommerce-admin-dashboard",
+    link: "https://ecommerce-admin-dashboard-chi.vercel.app",
+  },
+  {
+    name: "E-commerce Store",
+    description:
+      "The frontend store of my e-commerce project. Uses API routes from backend dashboard to display products.",
+    image: "/store.png",
+    github: "https://github.com/GarethCott/ecommerce-store",
+    link: "https://ecommerce-store-liart-one.vercel.app",
+  },
   {
     name: "TrendSwap (A reddit clone)",
     description:
@@ -29,8 +45,7 @@ const projects = [
     github: "https://github.com/GarethCott/prompt-search-app",
     link: "https://main--prompt-search.netlify.app",
   },
-
-]
+];
 
 const ProjectsSection = () => {
   return (
@@ -80,11 +95,11 @@ const ProjectsSection = () => {
                 </div>
               </SlideUp>
             </div>
-          )
+          );
         })}
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default ProjectsSection
+export default ProjectsSection;
